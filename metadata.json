@@ -1,0 +1,6 @@
+{
+  "name": "කාවන්තිස්ස හස්තිරාජයා · සදාකාලික මතකය",
+  "description": "ශ්‍රී ලංකාවේ උසම වන අලියා වූ කාවන්තිස්ස හස්තිරාජයා (2008–2026) වෙනුවෙන් නිර්මාණය කළ අනුස්මරණීය අඩවිය.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
